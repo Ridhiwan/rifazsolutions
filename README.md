@@ -1,2 +1,0 @@
-# rifazsolutions
-GitHub Pages
