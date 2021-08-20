@@ -78,7 +78,8 @@
     "About Us.html": {
       "settings": {
         "title": "About Us",
-        "order": 1
+        "order": 1,
+        "meta_descr": "This page highlights our values and staff"
       },
       "components": [
         {
@@ -581,7 +582,8 @@
     "Computational Chemistry.html": {
       "settings": {
         "title": "Computational Chemistry",
-        "order": 2
+        "order": 2,
+        "meta_descr": "This page goes into details of the computational chemistry projects performed."
       },
       "components": [
         {
@@ -1066,7 +1068,8 @@
     "Computational Physics.html": {
       "settings": {
         "title": "Computational Physics",
-        "order": 3
+        "order": 3,
+        "meta_descr": "This page goes into details of the computational physics projects performed."
       },
       "components": [
         {
@@ -1554,7 +1557,8 @@
     "Data Science.html": {
       "settings": {
         "title": "Data Science",
-        "order": 4
+        "order": 4,
+        "meta_descr": "This page goes into details of the data science, machine learning and deep learning projects performed."
       },
       "components": [
         {
@@ -2042,7 +2046,8 @@
     "Bioinformatics.html": {
       "settings": {
         "title": "Bioinformatics",
-        "order": 5
+        "order": 5,
+        "meta_descr": "This page goes into details of the bioinformatics and molecular biology projects performed."
       },
       "components": [
         {
@@ -2493,7 +2498,8 @@
     "High Perfomance Computing.html": {
       "settings": {
         "title": "High Performance Computing",
-        "order": 6
+        "order": 6,
+        "meta_descr": "This page goes into details of the high performance computing and software projects performed."
       },
       "components": [
         {
@@ -2981,7 +2987,8 @@
     "Contact.html": {
       "settings": {
         "title": "Contact",
-        "order": 7
+        "order": 7,
+        "meta_descr": "company contact information"
       },
       "components": [
         {
@@ -3485,7 +3492,8 @@
     "Quotation.html": {
       "settings": {
         "title": "Quotation",
-        "order": 8
+        "order": 8,
+        "meta_descr": "Get a quote for the services inquired."
       },
       "components": [
         {
@@ -3953,7 +3961,8 @@
     "Privacy Policy.html": {
       "settings": {
         "title": "Privacy Policy",
-        "order": 9
+        "order": 9,
+        "meta_descr": "privacy policy of the website"
       },
       "components": [
         {
@@ -4402,7 +4411,7 @@
       "settings": {
         "main": true,
         "title": "RIFAZ SOLUTIONS",
-        "meta_descr": "",
+        "meta_descr": "The home page for all the services we provide around scientific computing.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
